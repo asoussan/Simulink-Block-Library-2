@@ -6,7 +6,7 @@ A few things are needed before starting:
 iRobot Create 2:
 http://www.irobot.com/About-iRobot/STEM/Create-2.aspx
 
-Matlab Toolbox for the iRobot Create 2: 
+Matlab Toolbox: 
 https://www.mathworks.com/matlabcentral/fileexchange/52644-matlab-toolbox-for-the-irobot-create-2
 
 RooWifi to wirelessly control the Roomba:
