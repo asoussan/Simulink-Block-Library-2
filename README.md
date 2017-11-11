@@ -11,7 +11,7 @@ http://www.irobot.com/About-iRobot/STEM/Create-2.aspx
 
 Matlab Add-on: 
 https://www.mathworks.com/matlabcentral/fileexchange/52644-matlab-toolbox-for-the-irobot-create-2  
-**Be sure to edit the _RoombaInit_ function to contain the serial port object with your specific IP address(i.e. 10.0.0.1)**
+**Be sure to edit the _RoombaInit_ function to contain the serial port object with your specific IP address (i.e. 10.0.0.1)**
 
 RooWifi to wirelessly control the Roomba:
 http://www.roowifi.com/products-page/
