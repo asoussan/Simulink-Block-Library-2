@@ -1,6 +1,16 @@
 # Roomba Simulink Library
 The following Simulink library contains blocks that allow the iRobot Create 2 to autonomously navigate via 6 built-in IR sensors located on the front bumper. Depending on which sensors are active, the stateflow will determine the speed and direction of each motor to avoid obstacles. Contained in this block is a state that stops the Roomba if the temperature goes above a certain value.
 ## Intro
+A few things are needed before starting:
+
+iRobot Create 2:
+http://www.irobot.com/About-iRobot/STEM/Create-2.aspx
+
+Matlab Toolbox for the iRobot Create 2: 
+https://www.mathworks.com/matlabcentral/fileexchange/52644-matlab-toolbox-for-the-irobot-create-2
+
+RooWifi to wirelessly control the Roomba:
+http://www.roowifi.com/products-page/
 
 ## Blocks
 ### **wifi init**
