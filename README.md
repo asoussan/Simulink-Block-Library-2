@@ -4,13 +4,14 @@ The following Simulink library contains blocks that allow the iRobot Create 2 to
 **Must download and open library before running test case**
 
 ## Intro
-Things are needed before starting:
+Things needed before starting:
 
 iRobot Create 2:
 http://www.irobot.com/About-iRobot/STEM/Create-2.aspx
 
 Matlab Toolbox(Add-ons): 
 https://www.mathworks.com/matlabcentral/fileexchange/52644-matlab-toolbox-for-the-irobot-create-2
+**Be sure to edit the _RoombaInit_ function to contain the serial port object with your specific IP address**
 
 RooWifi to wirelessly control the Roomba:
 http://www.roowifi.com/products-page/
