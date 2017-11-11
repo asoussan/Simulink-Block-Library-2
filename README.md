@@ -5,7 +5,7 @@ The following Simulink library contains blocks that allow the iRobot Create 2 to
 ### Blocks
 ##### **wifi init**
 
-![wifi init](https://github.com/asoussan/markdown_images/blob/master/wifi%20init.png)
+![wifi init](https://github.com/asoussan/markdown_images/blob/master/wifi%20init.png =250x)
 
 ##### **ir sensors**
 
